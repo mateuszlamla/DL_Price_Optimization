@@ -1,7 +1,7 @@
 # check_models.py
 import google.generativeai as genai
 
-api_key = 'AIzaSyARJX5trehnja0-Q31kKtFKePJUasdsGhI'
+api_key = 'AIzaSyA6B65C29gm4QFT-AT81K-EngPgxvYOW6s'
 
 try:
     genai.configure(api_key=api_key)
